@@ -1,0 +1,10 @@
+torch
+sklearn
+feature_extraction
+numpy
+pandas
+transformers
+bert 
+bert-for-tf2 
+tokenizers
+bert-tensorflow 
